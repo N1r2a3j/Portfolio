@@ -351,7 +351,7 @@ a{
 .project-card{
     width:90%;
     height: 550px;
-    background-image: url(Screenshot\ \(67\).png);
+    background-image: url(images/Screenshot\ \(67\).png);
     background-size: cover;
     /*background-repeat: no-repeat;*/
     position: relative;
@@ -476,18 +476,18 @@ a{
 }
 
 #project1{
-    background-image: url(Business-Benefits-of-Artificial-Intelligence.jpg);
+    background-image: url(images/Business-Benefits-of-Artificial-Intelligence.jpg);
 }
 #project2{
     margin-left:120px;
-    background-image: url(Project2.png);
+    background-image: url(images/Project2.png);
 }
 #project3{
-    background-image: url(Project3.png);
+    background-image: url(images/Project3.png);
 }
 #project4{
     margin-left: 120px;
-    background-image: url(Project4.png);
+    background-image: url(images/Project4.png);
 }
 
 /*third page*/
